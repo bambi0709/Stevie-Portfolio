@@ -1,4 +1,3 @@
-# stevie-portfolio
 # Hi, I'm Stevie 👋
 
 Welcome to my long-term coding, AI and engineering portfolio.  
